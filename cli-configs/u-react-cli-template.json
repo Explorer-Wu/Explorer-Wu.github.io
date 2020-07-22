@@ -1,13 +1,13 @@
 [
     {
       "name":"webpack-cli-react-pc",
-      "url":"github:wuch886/webpack-cli-react-pc",
+      "url":"github:Explorer-Wu/webpack-cli-react-pc",
       "private": true,
       "description":"基于webpack构建的pc端react项目模板"
     },
     {
       "name":"webpack-cli-vue-pc",
-      "url":"github:wuch886/webpack-cli-vue-pc",
+      "url":"github:Explorer-Wu/webpack-cli-vue-pc",
       "private": true,
       "description":"基于webpack构建的pc端vue项目模板"
     }
