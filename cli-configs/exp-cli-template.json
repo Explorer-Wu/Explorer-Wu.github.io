@@ -8,7 +8,7 @@
     },
     {
       "gitname": "webpack-react-antd-mobile-demo",
-      "url":"github:Explorer-Wu/webpack-react-antd-mobile-demo",
+      "url":"https://github.com/Explorer-Wu/webpack-react-antd-mobile-demo",
       "tmplname": "Mobile端react模版",
       "private": true,
       "description":"基于webpack构建的Mobile端react项目模板"
