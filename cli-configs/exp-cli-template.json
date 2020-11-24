@@ -7,8 +7,8 @@
       "description":"基于webpack构建的pc端react项目模板"
     },
     {
-      "gitname": "webpack-react-antd-mobile-demo",
-      "url":"github:Explorer-Wu/webpack-react-antd-mobile-demo",
+      "gitname": "webpack-cli-vue-pc",
+      "url":"github:Explorer-Wu/webpack-cli-vue-pc",
       "tmplname": "Mobile端react模版",
       "private": true,
       "description":"基于webpack构建的Mobile端react项目模板"
